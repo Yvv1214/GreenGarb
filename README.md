@@ -30,5 +30,3 @@ All the data is fetched from the local database and is unique per codespace.
 
 
 
-![greenGarbProductPage](https://github.com/4GeeksAcademy/GreenGarb/assets/39809411/a232f4c5-c512-47a7-975d-417c6457e20f) ![Screenshot (154)](https://github.com/4GeeksAcademy/GreenGarb/assets/39809411/bfe16f9f-a36a-4617-9423-a29ea3e03787)
-
